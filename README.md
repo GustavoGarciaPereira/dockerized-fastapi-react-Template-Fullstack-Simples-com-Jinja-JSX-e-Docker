@@ -4,6 +4,8 @@ Este projeto é um experimento para demonstrar como integrar **FastAPI**, **Jinj
 
 **Nota:** Este é um projeto experimental de teste, destinado a fins educacionais e de demonstração.
 
+![layout](image.png)
+
 ## Índice
 
 - [Introdução](#introdução)
